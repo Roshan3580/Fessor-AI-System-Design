@@ -51,43 +51,29 @@ The platform combines:
 
 ![Landing Page](./screenshots/landing-page.png)
 
----
-
 ### Generated Book Overview
 
 ![Generated Book Overview](./screenshots/book-overview.png)
-
----
 
 ### Public Library
 
 ![Public Library](./screenshots/public-library.png)
 
----
-
 ### Textbook Reader + AI Assistant
 
 ![Book and AI Assistant](./screenshots/book-and-ai-assistant.png)
-
----
 
 ### Editing Mode
 
 ![Editing Mode](./screenshots/editing-mode.png)
 
----
-
 ### Interactive Quizzes
 
 ![Quizzes](./screenshots/quizzes.png)
 
----
-
 ### Flashcards
 
 ![Flashcards](./screenshots/flashcards.png)
-
----
 
 ### Exams
 
@@ -110,8 +96,6 @@ Includes:
 - Images
 - Examples
 
----
-
 ### Interactive Learning
 
 Students can reinforce understanding through:
@@ -120,8 +104,6 @@ Students can reinforce understanding through:
 - Open-ended questions
 - Flashcards
 - Exams
-
----
 
 ### Page Assistant
 
@@ -133,8 +115,6 @@ Context-aware AI assistant capable of:
 - Editing content
 - Working with uploaded files
 
----
-
 ### Public Library
 
 Users can:
@@ -143,8 +123,6 @@ Users can:
 - Search books
 - Bookmark content
 - Reuse materials
-
----
 
 ### Content Editing
 
@@ -239,7 +217,6 @@ Fessor is designed around three principles:
 2. Interactive learning experiences
 3. Scalable AI orchestration
 
----
 
 ## Disclaimer
 
