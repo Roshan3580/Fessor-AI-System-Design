@@ -4,7 +4,7 @@ This document summarizes major technical areas I contributed to while working on
 
 ---
 
-# Math Rendering
+## Math Rendering
 
 Improved math support across the platform.
 
@@ -25,7 +25,7 @@ Implemented:
 
 ---
 
-# Authentication
+## Authentication
 
 Contributed to:
 
@@ -73,7 +73,7 @@ Contributed to:
 
 ---
 
-# Security
+## Security
 
 Worked on:
 

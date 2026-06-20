@@ -10,6 +10,23 @@ This is a public system design and engineering showcase for my work on Fessor.ai
 
 ---
 
+### Engineering Highlights
+
+Some of the technical areas I contributed to include:
+
+- Multi-model AI generation workflows
+- Google OAuth integration
+- Math rendering and KaTeX pipelines
+- File attachments and OCR
+- Realtime assistant experiences
+- Exams, quizzes, and interactive learning
+- Async task orchestration
+- Security and platform reliability
+
+→ **See [Engineering Contributions](docs/CONTRIBUTIONS.md)**
+
+---
+
 ## Overview
 
 Fessor orchestrates multiple AI models to generate complete textbooks and learning materials from a single prompt.
