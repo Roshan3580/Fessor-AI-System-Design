@@ -4,6 +4,10 @@ AI-powered textbook generation platform that transforms a topic into structured 
 
 **Live product:** https://fessor.ai
 
+## About this repository
+
+This is a public system design and engineering showcase for my work on Fessor.ai, a deployed AI textbook generation platform. The production source code is private, so this repository focuses on architecture, product flows, technical contributions, and system design tradeoffs.
+
 ---
 
 ## Overview
@@ -32,9 +36,9 @@ The platform combines:
 
 ---
 
-### Generation Flow
+### Generated Book Overview
 
-![Generation Flow](./screenshots/generation-flow.png)
+![Generated Book Overview](./screenshots/book-overview.png)
 
 ---
 
@@ -74,7 +78,7 @@ The platform combines:
 
 ---
 
-# Major Features
+## Major Features
 
 ### AI Textbook Generation
 
@@ -157,6 +161,8 @@ Infrastructure:
 - Docker
 - Google Cloud Platform
 
+See [Architecture](docs/ARCHITECTURE.md) and [System Design](docs/SYSTEM_DESIGN.md) for detailed breakdowns.
+
 ---
 
 ## Tech Stack
@@ -189,33 +195,22 @@ Infrastructure:
 
 ### AI Providers
 
-- OpenAI
+- OpenAI (GPT-4)
 - Claude
 - Gemini
+- Grok (xAI)
 
 ---
 
 ## Documentation
 
-Architecture:
-
-- docs/ARCHITECTURE.md
-
-System Design:
-
-- docs/SYSTEM_DESIGN.md
-
-AI Pipeline:
-
-- docs/AI_PIPELINE.md
-
-Contributions:
-
-- docs/CONTRIBUTIONS.md
-
-Future Improvements:
-
-- docs/FUTURE_IMPROVEMENTS.md
+- [Architecture](docs/ARCHITECTURE.md)
+- [System Design](docs/SYSTEM_DESIGN.md)
+- [AI Pipeline](docs/AI_PIPELINE.md)
+- [Async Workflows](docs/ASYNC_WORKFLOWS.md)
+- [Realtime Architecture](docs/REALTIME_ARCHITECTURE.md)
+- [Contributions](docs/CONTRIBUTIONS.md)
+- [Future Improvements](docs/FUTURE_IMPROVEMENTS.md)
 
 ---
 
